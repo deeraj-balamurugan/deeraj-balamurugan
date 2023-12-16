@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/4hnQDVKVARZ6w" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-konami-4hnQDVKVARZ6w">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/code-konami-4hnQDVKVARZ6w" alt='banner image' />
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeraj-balamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="deeraj-balamurugan" /> </p>
