@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/code-konami-4hnQDVKVARZ6w" alt='banner image' />
+<h1 align="center">Hi 👋, I'm Deeraj Balamurugan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeraj-balamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="deeraj-balamurugan" /> </p>
