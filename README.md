@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deeraj Balamurugan</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">Hello there! 👋 I'm deeraj, a dedicated frontend developer with a burning passion for creating immersive and user-friendly web experiences. 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeraj-balamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="deeraj-balamurugan" /> </p>
 
