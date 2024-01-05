@@ -3,6 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeraj-balamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="deeraj-balamurugan" /> </p>
 
+## 💡 Skills That Spark My Code:
+
+- **HTML5 & CSS3:** Crafting the foundation for beautiful and responsive designs.
+- **JavaScript & ES6:** Breathing life into websites with dynamic and interactive features.
+- **React.js:** Building reusable components and pushing the boundaries of user interfaces.
+- **Responsive Design:** Ensuring a seamless experience across devices of all shapes and sizes.
+- **CSS Pre-processors (Sass/Less):** Styling with efficiency and maintainability in mind.
+
+## 🌈 Staying Ahead of Trends:
+
+In the ever-evolving realm of frontend development, I thrive on staying at the forefront of the latest trends and technologies. From the newest JavaScript frameworks to groundbreaking design principles, I'm always eager to explore and integrate cutting-edge tools into my workflow.
+
+## 📚 Current Journey: Learning TypeScript 🚀
+
+Diving deep into TypeScript to elevate my coding prowess and enhance the robustness of my projects. Embracing static typing for cleaner, more maintainable code is my current mission. Join me on this learning adventure!
+
+## 🛠️ Projects That Define My Journey:
+
 - 🔭 I’m currently working on **Snappy**
 
 - 🌱 I’m currently learning **TypeScript, Next.JS**
