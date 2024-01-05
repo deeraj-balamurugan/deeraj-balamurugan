@@ -19,15 +19,17 @@ In the ever-evolving realm of frontend development, I thrive on staying at the f
 
 Diving deep into TypeScript to elevate my coding prowess and enhance the robustness of my projects. Embracing static typing for cleaner, more maintainable code is my current mission. Join me on this learning adventure!
 
-## 🛠️ Projects That Define My Journey:
+## 🛠️ Projects Shaping My Journey:
+🔭 Currently working on Snappy
 
-- 🔭 I’m currently working on **Snappy**
+## 🌱 Learning & Growing:
+Currently diving deep into TypeScript and exploring the power of Next.js
 
-- 🌱 I’m currently learning **TypeScript, Next.JS**
+## 💬 Ask Me About:
+JavaScript, React, Node, Power BI, Excel, SQL
 
-- 💬 Ask me about **Javascript, React, Node, Power BI, Excel, SQL**
-
-- 📫 How to reach me **deerajbalamurugan@gmail.com**
+## 📫 Reach Me At:
+📧 deerajbalamurugan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
