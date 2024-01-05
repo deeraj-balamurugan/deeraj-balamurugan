@@ -37,8 +37,6 @@ JavaScript, React, Node, Power BI, Excel, SQL
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> ### Languages and Tools:
-
 [<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>](https://appwrite.io)
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)
 [<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>](https://www.blender.org/)
@@ -59,6 +57,5 @@ JavaScript, React, Node, Power BI, Excel, SQL
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org/)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
- </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeraj-balamurugan&show_icons=true&locale=en&layout=compact" alt="deeraj-balamurugan" /></p>
